@@ -1,5 +1,7 @@
 # 🍎 Division Mixed Fraction App
 
+▶️ **Live Demo:** [https://division-mixed-fraction.netlify.app](https://division-mixed-fraction.netlify.app)
+
 An interactive React-based math applet to visually guide students through dividing 13 by 5 using grouping, remainder logic, and mixed fraction simplification.
 
 ---
